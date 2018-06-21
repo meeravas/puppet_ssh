@@ -15,4 +15,4 @@ if RUBY_VERSION >= '1.8.7' && RUBY_VERSION < '1.9'
 else
   # rubocop requires ruby >= 1.9
   gem 'rubocop'
-end
+end1
